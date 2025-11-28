@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D1v3shh
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ language
+- 👀 I’m interested in Coding, CLoud Computing
+- 🌱 I’m currently learning C++ language,AWS
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me kumavatdivesh671@gmail.com
 
