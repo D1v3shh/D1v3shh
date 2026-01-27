@@ -14,7 +14,7 @@ I'm on a mission to automate everything and break production... I mean, *improve
 apiVersion: v1
 kind: Developer
 metadata:
-  name: [YOUR USERNAME]
+  name: D1v3shh
   labels:
     role: Student
     passion: DevOps
@@ -47,12 +47,12 @@ spec:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=D1v3shh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1v3shh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D1v3shh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🚀 What I'm Currently Up To
