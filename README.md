@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Divesh;DevOps+Enthusiast+%F0%9F%9A%80;Cloud+%26+Infrastructure+Explorer;Automating+All+The+Things!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=D1v3shh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/D1v3shh?style=for-the-badge&color=blue" alt="Followers" />
-</p>
+</p> -->
 
 ## 🎓 About Me
 
