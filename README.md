@@ -76,19 +76,18 @@ spec:
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=D1v3shh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=D1v3shh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=D1v3shh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1v3shh&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D1v3shh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D1v3shh&theme=react-dark&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D1v3shh&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </p>
-
 <!--## 🏆 GitHub Trophies
 
 <p align="center">
